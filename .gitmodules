@@ -1,0 +1,9 @@
+[submodule "mainroad"]
+	path = mainroad
+	url = https://github.com/vimux/mainroad
+[submodule "themes/diary"]
+	path = themes/diary
+	url = https://github.com/AmazingRise/hugo-theme-diary.git
+[submodule "themes/m10c"]
+	path = themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
