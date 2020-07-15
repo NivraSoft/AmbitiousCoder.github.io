@@ -11,7 +11,7 @@ theme = "mainroad"
   bio = ""
   avatar = "img/avatar.png"
 
-# [Params]
+[Params]
 #   subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle
 #   description = "John Doe's Personal blog about everything" # Site description. Used in meta description
 #   copyright = "John Doe" # Footer copyright holder, otherwise will use site title
@@ -31,7 +31,8 @@ theme = "mainroad"
 #   highlightColor = "#e22d30" # Override highlight color
 #   customCSS = ["css/custom.css"] # Include custom CSS files
 #   customJS = ["js/custom.js"] # Include custom JS files
-sectionPagesMenu = "main"
+  sectionPagesMenu = "main"
+  mainSections = ["posts"]
 
 [Params.logo]
 #  image = "img/Logo2.png" # Logo image. Path relative to "static"
