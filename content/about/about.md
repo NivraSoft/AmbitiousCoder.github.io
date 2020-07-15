@@ -1,7 +1,8 @@
 ---
 title: "About Arvind Singh"
 date: 2020-07-09T22:14:15+05:30
-draft: false
+draft: true
 menu: "About"
 ---
-{{ with $page.Params.widgets.social }}
+
+{{ $page.Params.widgets.social }}
